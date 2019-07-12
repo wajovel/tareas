@@ -1,4 +1,4 @@
 # tareas
 Tareas
-Este es el priemr repositorio
-Ejercicio de ciencai de Datos
+Este es el primer repositorio
+Ejercicio de ciencia de Datos
